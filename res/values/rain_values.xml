@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- rain sensor -->
+    <string-array name="rain_valuepaths">
+        <item>expected</item>
+    </string-array>
+
+
+</resources>
